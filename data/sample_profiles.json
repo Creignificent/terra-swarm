@@ -1,0 +1,8 @@
+[
+  {
+    "id": "demo-001",
+    "contaminants": ["petroleum hydrocarbons"],
+    "soil_type": "loam",
+    "notes": "Example profile for testing"
+  }
+]
